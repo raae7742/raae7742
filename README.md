@@ -8,11 +8,6 @@
 
   `Android` `Spring` `Unity` 
   
-  `Java` `Kotlin` `C/C++` 
-  
-  `AWS` `GCP` `MySQL` `SQLite` `CentOS` `Ubuntu`
-
-<br>
 
 #### 📫 How to reach me: ...
   
