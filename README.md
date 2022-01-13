@@ -10,7 +10,7 @@
   
   `Java` `Kotlin` `C/C++` 
   
-  `Amazon AWS` `MySQL` `SQLite` `CentOS` `Ubuntu`
+  `AWS` `GCP` `MySQL` `SQLite` `CentOS` `Ubuntu`
 
 <br>
 
