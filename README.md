@@ -6,7 +6,11 @@
 #### 🌱 I'm interested in ... 
 
 
-  `Android` `Spring` `Unity` 
+  `Android` `Spring` `Unity`
+  
+  `Java` `Kotlin` `C/C++` 
+  
+  `AWS` `GCP` `MySQL` `SQLite` `CentOS` `Ubuntu`
   
 
 #### 📫 How to reach me: ...
