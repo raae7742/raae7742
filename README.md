@@ -6,7 +6,7 @@
 #### 🌱 I'm interested in ... 
 
 
-  `Android` `Spring` `Unity`
+  `Android` `Spring` `Unity` `Vue.js`
   
   `Java` `Kotlin` `C/C++` 
   
