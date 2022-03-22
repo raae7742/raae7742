@@ -8,7 +8,7 @@
 
   `Android` `Spring` `Unity` `Vue.js`
   
-  `Java` `Kotlin` `C/C++` 
+  `Java` `Kotlin` `C/C++` `C#` `Html/Css` `Javascript`
   
   `AWS` `GCP` `MySQL` `SQLite` `CentOS` `Ubuntu`
   
