@@ -1,7 +1,7 @@
 <div align="center">
 
 
-### Hello world! I'm [hyeonae](https://raae7742.github.io) :wave::wave:
+### Hello world! I'm [hyeonae](https://discreet-fold-5d5.notion.site/yeonae-8526b4e5db6e40009e51895f41a68640) :wave::wave:
 
 #### 🌱 I'm interested in ... 
 
