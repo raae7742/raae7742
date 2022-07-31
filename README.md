@@ -6,11 +6,11 @@
 #### 🌱 I'm interested in ... 
 
 
-  `Android` `Spring` `Unity` `Vue.js`
+  `Spring Boot` `Spring Data JPA` `Spring Security`
   
-  `Java` `Kotlin` `C/C++` `C#` `Html/Css` `Javascript`
+  `Java` `Kotlin` `C/C++` `Linux`
   
-  `AWS` `GCP` `MySQL` `SQLite` `CentOS` `Ubuntu`
+  `AWS` `GCP` `MySQL` `Docker` `CI/CD`
   
 
 #### 📫 How to reach me: ...
