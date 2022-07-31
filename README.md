@@ -8,6 +8,8 @@
 
   `Spring Boot` `Spring Data JPA` `Spring Security`
   
+  `Android` `Vue.js` `Unity`
+  
   `Java` `Kotlin` `C/C++` `Linux`
   
   `AWS` `GCP` `MySQL` `Docker` `CI/CD`
