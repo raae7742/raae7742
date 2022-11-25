@@ -6,13 +6,14 @@
 #### 🌱 I'm interested in ... 
 
 
-  `Spring Boot` `Spring Data JPA` `Spring Security`
+  `Spring` `Kotlin` `Java`
   
-  `Android` `Vue.js` `Unity`
+  `Ubuntu` `AWS` `GCP` 
   
-  `Java` `Kotlin` `C/C++` `Linux`
-  
-  `AWS` `GCP` `MySQL` `Docker` `CI/CD`
+  `MySQL` `Redis` `CI/CD`
+
+  `Design Patterns` `Clean Architecture`
+  `
   
 
 #### 📫 How to reach me: ...
