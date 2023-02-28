@@ -8,11 +8,9 @@
 
   `Spring` `Kotlin` `Java`
   
-  `Ubuntu` `AWS` `GCP` 
+  `Ubuntu` `AWS` `GCP` `CI/CD`
   
-  `MySQL` `Redis` `CI/CD`
-
-  `Design Patterns` `Clean Architecture`
+  `MySQL` `Redis` `Kafka`
   `
   
 
