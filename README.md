@@ -6,12 +6,14 @@
 #### 🌱 I'm interested in ... 
 
 
-  `Spring` `Kotlin` `Java`
+  `Spring Boot` `Spring Data JPA` `Spring Security` `Spring Batch` 
   
-  `Ubuntu` `AWS` `GCP` `CI/CD`
+  `Kotlin` `Java` `Linux`
   
-  `MySQL` `Redis` `Kafka`
-  `
+  `AWS` `GCP` `Docker` `Kubernetis`
+  
+  `Redis` `Kafka`
+  
   
 
 #### 📫 How to reach me: ...
