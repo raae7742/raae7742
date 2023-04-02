@@ -10,7 +10,7 @@
   
   `Kotlin` `Java` `Linux`
   
-  `AWS` `GCP` `Docker` `Kubernetis`
+  `AWS` `GCP` `Docker` `Kubernetes`
   
   `Redis` `Kafka`
   
