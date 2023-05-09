@@ -29,5 +29,5 @@
 
 <br>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=aeliketodo&theme=vue)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=aeliketodo&theme=vue)](https://aeliketodo.tistory.com)
 </div>
